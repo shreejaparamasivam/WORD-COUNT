@@ -1,4 +1,4 @@
-The Word Count Tool is a simple Python-based utility designed to count the number of words in a text file. It can be used to process any plain text file, including .txt, .md, or other documentation files. This tool is essential for writers, editors, and developers who need to quickly determine the word count of their content or code documentation.
+The Word Count Tool is a simple utility designed to count the number of words in a text file. It can be used to process any plain text file, including .txt, .md, or other documentation files. This tool is essential for writers, editors, and developers who need to quickly determine the word count of their content or code documentation.
 
 Features
 Easy to Use: Simply provide the file path to the script, and it will return the word count.
